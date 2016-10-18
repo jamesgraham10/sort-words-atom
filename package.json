@@ -4,11 +4,19 @@
   "version": "0.0.0",
   "description": "Sorts a series of words delimited by dots or spaces",
   "keywords": [
+    "sort",
+    "words"
   ],
   "activationCommands": {
     "atom-workspace": "sort-words:toggle"
   },
-  "repository": "https://github.com/jamesgraham10/sort-words-atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesgraham10/sort-words-atom"
+  },
+  "bugs": {
+    "url": "https://github.com/jamesgraham10/sort-words-atom/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
