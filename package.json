@@ -1,0 +1,18 @@
+{
+  "name": "sort-words",
+  "main": "./lib/sort-words",
+  "version": "0.0.0",
+  "description": "Sorts a series of words delimited by dots or spaces",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "sort-words:toggle"
+  },
+  "repository": "https://github.com/atom/sort-words",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
