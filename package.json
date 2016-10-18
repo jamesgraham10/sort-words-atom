@@ -1,7 +1,7 @@
 {
   "name": "sort-words",
   "main": "./lib/sort-words",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sorts a series of words delimited by dots or spaces",
   "keywords": [
     "sort",
