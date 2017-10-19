@@ -1,0 +1,22 @@
+'menu': [
+  {
+    'label': 'Edit'
+    'submenu': [
+      'label': 'Words'
+      'submenu': [
+        { 'label': 'Sort case-insensitive', 'command': 'sort-word:sort-case-insensitive' }
+        { 'label': 'Sort case-sensitive', 'command': 'sort-word:sort-case-sensitive' }
+      ]
+    ]
+  }
+  {
+    'label': 'Edit'
+    'submenu': [
+      'label': 'Text'
+      'submenu': [
+        { 'label': 'Sort words (case-insensitive)', 'command': 'sort-words:sort-case-insensitive' }
+        { 'label': 'Sort words (case-sensitive)', 'command': 'sort-words:sort-case-sensitive' }
+      ]
+    ]
+  }
+]

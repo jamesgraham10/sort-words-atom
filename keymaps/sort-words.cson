@@ -1,0 +1,4 @@
+# Since this is not a common package, it has no default keymap. Please add one
+# to your own config like so:
+# 'atom-text-editor:not([mini])':
+#   'f6': 'sort-words:sort-case-insensitive'
