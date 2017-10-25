@@ -1,7 +1,7 @@
 {
   "name": "sort-words",
   "main": "./lib/sort-words",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Sorts your words in Atom, till segfault do us part.",
   "keywords": [
     "sort",
