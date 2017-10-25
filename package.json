@@ -8,7 +8,10 @@
     "words"
   ],
   "activationCommands": {
-    "atom-workspace": "sort-words:toggle"
+    "atom-text-editor": [
+      "sort-words:sort-case-insensitive",
+      "sort-words:sort-case-sensitive"
+    ]
   },
   "repository": {
     "type": "git",
